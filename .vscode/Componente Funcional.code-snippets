@@ -1,0 +1,21 @@
+{
+	"Componente Funcional": {
+		"scope": "typescriptreact, javascriptreact",
+		"prefix": "compfunc",
+		"body": [
+			"import React from 'react';",
+			"import { Text } from 'react-native';",
+			"",
+			"const $1 = () => {",
+			"    return (",
+			"		<>",
+			"        	<Text style={globalStyle.textGrande}></Text>",
+			"		</>",
+			"    );",
+			"};",
+			"",
+			"export default $1;"
+		],
+		"description": "Esboço de um componente funcional React"
+	}
+}
