@@ -28,7 +28,7 @@ const Button:React.FC<ButtonProps> = ({onClick, label, color = "#fff", backgroun
             margin: 3.5,
         },
         buttonDouble: {
-            padding: 40,
+            paddingLeft: 40,
             alignItems: "flex-start",
             width: Dimensions.get("window").width / 2.25,
 
